@@ -1,0 +1,8 @@
+﻿{
+  "name": "MultiGoals",
+  "version_number": "1.0.0",
+  "description": "Adds a lobby option for goals-per-hole and requires N goals before finishing a hole.",
+  "dependencies": [
+        "BepInEx-BepInExPack-5.4.2304"
+  ]
+}
