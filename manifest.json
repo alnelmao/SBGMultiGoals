@@ -1,8 +1,9 @@
-﻿{
+{
   "name": "MultiGoals",
-  "version_number": "1.0.0",
-  "description": "Adds a lobby option for goals-per-hole and requires N goals before finishing a hole.",
+  "version_number": "1.8.0",
+  "website_url": "https://github.com/alnelmao/SBGMultiGoals",
+  "description": "Team modes and custom game rules for SuperBattleGolf: Goals Required 1-100, Team Chaos, Team Competitive, team scoring sync, TAB progress UI, and team-colored name tags for modded clients.",
   "dependencies": [
-        "BepInEx-BepInExPack-5.4.2304"
+    "BepInEx-BepInExPack-5.4.2304"
   ]
 }
